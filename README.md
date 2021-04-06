@@ -1,4 +1,4 @@
-# Full-Stack-Developer-Coding-Challenge
+# FullStack Rocket
 As the next step in the interview process, we’d like you to complete a coding challenge.
 
 ## The Project
